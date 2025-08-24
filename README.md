@@ -50,17 +50,8 @@
 ---
 
 ### ⚡ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukau-ndombele&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukau-ndombele&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukau-ndombele&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
+![Lukau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaulk&show_icons=true&theme=radical)
 
 ---
 
 ✨ Obrigado por visitar o meu perfil!  
-🎶 No meu tempo livre produzo beats e trap angolano.  
