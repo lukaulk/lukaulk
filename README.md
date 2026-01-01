@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Lukau!  
 
-**Transforming** work into interaction, I'm a **Fullstack Developer** with over **6 years of experience** focused on **agile development**, fast and qualitative delivery using the best tools on the market.  
+**Transforming** work into interaction, I'm a **Fullstack Developer** with over **3 years of experience** focused on **agile development**, fast and qualitative delivery using the best tools on the market.  
 ![Profile views](https://komarev.com/ghpvc/?username=lukaulk&label=Profile%20views&color=0e75b6&style=flat)
 
 🛠️ Always ready to adapt to the constant changes in the market.  
